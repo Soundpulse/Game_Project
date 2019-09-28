@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BLAKGROUND
+    uniqueID: 1861129653
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: FORGROUND
+    uniqueID: 4262915495
     locked: 0
